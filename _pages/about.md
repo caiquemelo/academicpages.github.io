@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Brief Bio"
-excerpt: "Brief Bio"
+title: "Hello :)"
+excerpt: "Hello :)"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-Hello :)
 
 I am PhD student in Economics at the Graduate Program in Economics (Pimes) at the Federal University of Pernambuco and research assistant of the Group of Evaluation of Public and Economic Policies ([GAPPE])(https://www.gappe.org/). 
 

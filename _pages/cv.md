@@ -12,10 +12,6 @@ Ph.D. in Economics, Federal University of Pernambuco (UFPE), 2019 - Today
 M.Sc. in Economics, Federal University of Pernambuco (UFPE), 2018
 B.A. in Economics, Federal University of Pernambuco (UFPE), 2016
 
-## Other Education
-RIDGE/LACEA Summer School, 2019
-#IMPA Summer School, Functional Analysis - Ph.D. Level, 2021
-
 # Fields of Interest
 Applied Microeconomics: Migration, Crime, Health, Labor, Political Economy.
 

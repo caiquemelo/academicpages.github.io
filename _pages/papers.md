@@ -27,7 +27,7 @@ author_profile: true
 (with Werner Baer and <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **The Quarterly Review of Economics and Finance**, 2012 &nbsp; [link](http://www.sciencedirect.com/science/article/pii/S1062976912000452) 
 
 ---
-
+a
 # Work in Progress
 
 - Housing And Monetary Policy In The Business Cycle: What Do Housing Rents Have To Say?, (wit﻿h﻿ Daniel A﻿. D﻿ias)

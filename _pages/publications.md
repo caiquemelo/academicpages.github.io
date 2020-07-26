@@ -5,10 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Work in Progress
+# Publications:
 
-- Housing And Monetary Policy In The Business Cycle: What Do Housing Rents Have To Say?, (wit﻿h﻿ Daniel A﻿. D﻿ias)
+I am trying so hard!!
 
-- Structural Transformation and the Business Cycle, (with Vasco Carvalho)
+# Work in Progress:
 
-- Automation, Taxation, Concentration and Inequality in the U.S., (with Pedro Brinca and Joao Gouveia-de-Oliveira)
+- Do Transfers of Gang Leaders Increase Local Crime? The Case of Marcola, with Diogo Britto, Bladimir Carrillo, Breno Sampaio, Gustavo Sampaio, and Paulo H. Vaz.
+
+- Assessing the Effect of News Shocks on Birth Weight: Evidence from Microcephaly Epidemic in Brazil, with Breno Sampaio, Bladimir Carrillo, and Lucas Emanuel. (Draft soon)
+
+- Better to Have a Good Car": Socioeconomic Bias in Judicial Decisions, with Yuri Oliveira, and Daniel Araújo. (Draft soon)
+
+- Is Your Prejudice Worth More Than a Life? Xenophobic Bias in Medical Decisions. (Draft soon)

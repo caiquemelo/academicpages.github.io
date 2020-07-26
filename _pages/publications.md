@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: ""
-permalink: /publications/
+permalink: /
+title: "Hello :)"
+excerpt: "Hello :)"
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 
 # Publications:

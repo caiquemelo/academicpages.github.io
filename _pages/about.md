@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Hello :)
+
 I am PhD student in Economics at the Graduate Program in Economics (Pimes) at the Federal University of Pernambuco and research assistant of the Group of Evaluation of Public and Economic Policies [(GAPPE)](https://www.gappe.org/). 
 
 My research interests focus on applied microeconometrics, particularly in crime, education, health, labor, and migration.

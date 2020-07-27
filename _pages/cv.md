@@ -37,7 +37,7 @@ Research Fellow. Graduate Program in Economics, UFPE.
 
 
 ## Teacher Assistant
-- Econometrics II (Graduate level, 2019
+- Econometrics II (Graduate level), 2019
 
 - Macroeconomics II (Undergraduate level), 2018
 
